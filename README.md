@@ -42,4 +42,5 @@ pastas desorganizadas
 <img width="531" height="310" alt="image" src="https://github.com/user-attachments/assets/86ec65f4-d478-42ed-a607-37bd822cfe72" />
 
 Pastas organizadas
-<img width="533" height="182" alt="image" src="https://github.com/user-attachments/assets/fa2f17fb-d459-4cc3-a6ad-14b1f60c63a6" />
+
+![WhatsApp Image 2025-09-10 at 09 18 20](https://github.com/user-attachments/assets/5eaa52c5-06a7-4a6a-a0b0-da533c404fed)
