@@ -10,6 +10,18 @@ Um aplicativo em *Python* com *interface gráfica (Tkinter)* que organiza automa
 - Movimentação automática dos arquivos para as pastas correspondentes.
 - Versão *.exe* disponível para Windows (não precisa ter Python instalado).
 
+- 📸 Demonstração
+Interface principal
+<img width="297" height="177" alt="image" src="https://github.com/user-attachments/assets/8dae0a0f-1c7d-4539-a7bf-004c99e8aaa0" />
+
+pastas desorganizadas
+<img width="531" height="310" alt="image" src="https://github.com/user-attachments/assets/86ec65f4-d478-42ed-a607-37bd822cfe72" />
+
+Pastas organizadas
+
+![WhatsApp Image 2025-09-10 at 09 18 20](https://github.com/user-attachments/assets/5eaa52c5-06a7-4a6a-a0b0-da533c404fed)
+
+
 ---
 
 ## 🖥️ Tecnologias
@@ -34,15 +46,3 @@ Vá até a pasta dist/.
 Clique em organizador_gui.exe.
 Selecione a pasta que deseja organizar.
 
----
-
-📸 Demonstração
-Interface principal
-<img width="297" height="177" alt="image" src="https://github.com/user-attachments/assets/8dae0a0f-1c7d-4539-a7bf-004c99e8aaa0" />
-
-pastas desorganizadas
-<img width="531" height="310" alt="image" src="https://github.com/user-attachments/assets/86ec65f4-d478-42ed-a607-37bd822cfe72" />
-
-Pastas organizadas
-
-![WhatsApp Image 2025-09-10 at 09 18 20](https://github.com/user-attachments/assets/5eaa52c5-06a7-4a6a-a0b0-da533c404fed)
