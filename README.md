@@ -11,6 +11,7 @@ Um aplicativo em *Python* com *interface gráfica (Tkinter)* que organiza automa
 - Versão *.exe* disponível para Windows (não precisa ter Python instalado).
 
 ## 📸 Demonstração
+
 Interface principal
 <img width="297" height="177" alt="image" src="https://github.com/user-attachments/assets/8dae0a0f-1c7d-4539-a7bf-004c99e8aaa0" />
 
